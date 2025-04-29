@@ -1,4 +1,4 @@
-# Predictive-Modeling-of-NFL-Play-by-Play-Trends
+# Predictive Modeling of NFL Play by Play Trends
 
 ## Project Overview
 This project applies time series forecasting models to NFL play-by-play data to predict future scoring patterns and momentum trends. Using weekly aggregated statistics from 2014 to 2024, the analysis explores short-term forecasting of points scored across games and identifies underlying patterns in team performance.
@@ -26,7 +26,7 @@ This project applies time series forecasting models to NFL play-by-play data to 
 - Model components visualized to interpret trend and seasonality effects.
 
 ## How to View the Project
-- [View the Full Project Report (HTML)](Insert_Link_Here)
+- [View the Full Project Report (HTML)](https://jtyran.github.io/Predictive-Modeling-of-NFL-Play-by-Play-Trends/)
 
 ---
 
