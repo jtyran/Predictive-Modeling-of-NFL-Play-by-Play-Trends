@@ -1,0 +1,88 @@
+/* Base Styles */
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #f4f6f8;
+    margin: 0;
+    padding: 20px;
+    color: #333333;
+}
+
+/* Header Styles */
+h1, h2, h3, h4 {
+    color: #1e3a8a;
+    margin-bottom: 15px;
+}
+
+h1 {
+    font-size: 36px;
+    text-align: center;
+    margin-top: 20px;
+}
+
+/* Section Styling */
+section {
+    margin-bottom: 40px;
+    padding: 20px;
+    background-color: #ffffff;
+    border-radius: 8px;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+}
+
+/* Paragraph Styling */
+p {
+    font-size: 16px;
+    line-height: 1.6;
+    margin-bottom: 15px;
+}
+
+/* Lists */
+ul {
+    padding-left: 20px;
+    margin-bottom: 20px;
+}
+
+li {
+    margin-bottom: 8px;
+}
+
+/* Link Styling */
+a {
+    color: #2563eb;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+/* Code Block */
+code {
+    background-color: #e2e8f0;
+    padding: 3px 6px;
+    border-radius: 4px;
+    font-family: monospace;
+}
+
+/* Footer */
+footer {
+    text-align: center;
+    font-size: 14px;
+    margin-top: 40px;
+    color: #777777;
+}
+
+/* Optional: Button Styling */
+.button {
+    display: inline-block;
+    background-color: #2563eb;
+    color: #ffffff;
+    padding: 10px 20px;
+    margin-top: 20px;
+    border-radius: 5px;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.button:hover {
+    background-color: #1e40af;
+}
